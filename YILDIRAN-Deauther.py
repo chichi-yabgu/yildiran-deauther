@@ -32,7 +32,7 @@ if not 'SUDO_UID' in os.environ.keys():
 os.system("clear")
 app_details_tr()
 
-#make a input for selecting language
+#make a input for selecting language (made by github copilot xd)
 print(Fore.CYAN + "Dil seçin/Select language:")
 print(Fore.CYAN + "1." + Fore.YELLOW + "Türkçe")
 print(Fore.CYAN + "2." + Fore.YELLOW + "English\n")
